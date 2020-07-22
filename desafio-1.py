@@ -20,7 +20,7 @@ lista = [] # clear
 # Nota
 # Caso queira remover o elemento "2" use o comando
 # lista.remove(2)
-# no caso do exercicio do desafio talves eu tenha confundido a posicao do elemento com o elemento
+# no caso do exercicio do desafio talvez eu tenha confundido a posicao do elemento com o elemento
 # entao a linha 12 ficaria assim
 # lista.remove(3) 
 # e a lista final seria => lista = [2, 7, 8]
