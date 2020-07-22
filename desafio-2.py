@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #python
 lista=[] # inicia variavel lista
 lista.append(2) # put 2
@@ -8,4 +9,3 @@ print(lista) # [2, 7, 3, 8]
 lista.sort() # ordenacao de lista
 print(lista) # [2, 3, 7, 8]
 exit()
-

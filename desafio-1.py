@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #python
 lista=[] # inicia variavel lista
 lista.append(2) # put 2
